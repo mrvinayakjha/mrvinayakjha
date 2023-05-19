@@ -1,4 +1,4 @@
-       <h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
 
 <img align=“right” alt=“coding”, width=“400” src=“https://user-images.githubusercontent...”>
