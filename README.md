@@ -1,7 +1,9 @@
+![logo](https://github.com/mrvinayakjha/mrvinayakjha/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
 
-<img align=“right” alt=“coding”, width=“400” src=“https://user-images.githubusercontent...”>
+<img align=“right” alt=“coding”, width=“400” src=“![image](https://github.com/mrvinayakjha/mrvinayakjha/assets/100670889/6b72c09a-4e79-4d9b-9d72-fe810cb7812b)
+”>
 
 - 🌱 I’m currently learning **Python,python libraries, machine learning, statistics, NLP, Deep Learning**
 
