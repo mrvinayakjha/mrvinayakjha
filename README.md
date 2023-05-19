@@ -1,4 +1,4 @@
-![logo](https://github.com/mrvinayakjha/mrvinayakjha/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
+![logo](https://github.com/mrvinayakjha/mrvinayakjha/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
 <h3 align="center">A passionate Data Science Learner from India</h3>
 
