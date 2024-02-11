@@ -1,8 +1,8 @@
-<img align = "center"![logo](https://github.com/mrvinayakjha/mrvinayakjha/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner.png)>
+![logo](https://github.com/mrvinayakjha/mrvinayakjha/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
 <h3 align="center">DATA SCIENCE </h3>
 
-![coder-cover](https://github.com/mrvinayakjha/mrvinayakjha/assets/100670889/9c9f7409-a23f-4c2e-951c-dc47e4bcf4f6)
+<img align = "center" ![coder-cover](https://github.com/mrvinayakjha/mrvinayakjha/assets/100670889/9c9f7409-a23f-4c2e-951c-dc47e4bcf4f6)>
 
 - 🌱 Currently honing my skills in **Python, web scraping, statistics, feature engineering, Machine Learning, Deep Learning, NLP, and generative AI**
 
