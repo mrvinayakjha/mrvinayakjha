@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Kumar Jha</h1>
 <h3 align="center">DATA SCIENCE </h3>
 
-<img align=“right” alt=“coding”, width=“400” src=“![coder-cover](https://github.com/mrvinayakjha/mrvinayakjha/assets/100670889/9c9f7409-a23f-4c2e-951c-dc47e4bcf4f6)">
+![coder-cover](https://github.com/mrvinayakjha/mrvinayakjha/assets/100670889/9c9f7409-a23f-4c2e-951c-dc47e4bcf4f6)
 
 - 🌱 Currently honing my skills in **Python, web scraping, statistics, feature engineering, Machine Learning, Deep Learning, NLP, and generative AI**
 
